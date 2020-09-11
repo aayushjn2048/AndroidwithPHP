@@ -1,0 +1,20 @@
+<resources>
+    <string name="already_registered_n_click_here_to_login">Already Registered ?  Click Here to login</string>
+    <string name="register_user">Register User</string>
+    <string name="groupname">Groupname</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="enter_username">Enter username</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="app_name">GDG Feedback</string>
+    <string name="powered_by_google">Powered By Google</string>
+    <string name="welcomeTitle">Feedback App</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="loginButton">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="answer">Your Answer</string>
+</resources>
